@@ -153,12 +153,6 @@ for part_num in df["Part Number"]:
 
 
 
-# app.dlg.Button7.click()
-# app.dlg.Custom2.click_input()
-# app.dlg.RadioButton0.click_input()
-# set_price = app.dlg.Edit8
-# set_price.set_focus()
-# set_price.type_keys('10 {ENTER}', with_spaces=True)
 
 # app.dlg.Button8.click()
 # app.dlg.CheckBox.click_input()
