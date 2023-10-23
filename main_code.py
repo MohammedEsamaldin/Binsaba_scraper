@@ -156,15 +156,3 @@ for part_num in df["Part Number"]:
 
 
 
-# edit.type_keys('', with_spaces=True)
-# edit.type_keys(file_name + '{ENTER}' , with_spaces=True)
-
-
-# try:
-#     edit.Save.click()
-# except:
-#     app.dlg.YesButton.click_input()
-
-# # Uploading with Drive API
-# uploading_script(credentials, file_name)
-
