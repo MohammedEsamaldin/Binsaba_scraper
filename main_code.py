@@ -154,10 +154,6 @@ for part_num in df["Part Number"]:
 
 
 
-# app.dlg.Button8.click()
-# app.dlg.CheckBox.click_input()
-# app.dlg.MenuItem.click_input()
-# app.dlg.Excel.click_input()
 
 # edit = app.dlg.Dialog3.File_name_Edit
 # edit.set_focus()
