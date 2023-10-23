@@ -144,12 +144,6 @@ for part_num in df["Part Number"]:
 #     return texts
 
 
-# all_texts = get_texts_from_specific_controls(dlg)
-# for text in all_texts:
-#     print(text)
-
-
-
 
 
 
