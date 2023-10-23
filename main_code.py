@@ -155,13 +155,6 @@ for part_num in df["Part Number"]:
 
 
 
-# edit = app.dlg.Dialog3.File_name_Edit
-# edit.set_focus()
-# home_directory = os.path.expanduser("~")
-# file_directory = os.path.join(home_directory, 'Desktop', 'inventory')
-# edit.type_keys(file_directory +'{ENTER}', with_spaces=True)
-# file_name = f'Inventory report {program_types}_{company_name}_{branch_name}_{id_number}.xlsx'
-# edit.type_keys('^a{BACKSPACE}')
 
 # edit.type_keys('', with_spaces=True)
 # edit.type_keys(file_name + '{ENTER}' , with_spaces=True)
